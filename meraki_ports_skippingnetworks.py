@@ -74,7 +74,7 @@ def open_link():
             network_name = i
             try:
                 # CHOOSE NEEDED ORGANISATION
-                organization = browser.find_element_by_link_text('E la Carte, Inc.')
+                organization = browser.find_element_by_link_text('.')
                 organization.click()
 
             #WAITING FOR PAGE LOADING
