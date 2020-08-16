@@ -5,17 +5,17 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 import re
 
-#LOGIN = "neenahkeith@gmail.com"
-#PASSWORD = "Plussix@88"
+#LOGIN = ""
+#PASSWORD = ""
 LINK = "https://account.meraki.com/secure/login/dashboard_login"
 # PLEASE, PUT YOUR PATH TO CHROMEDRIVER
 PATH_TO_CHROMEDRIVER = "C:\\Users\\Manish Sharma\\Desktop\\Python Program\\CiscoMinotor\\venv\\Lib\\site-packages\\selenium\\chromedriver.exe"
 # PLEASE, WRITE HERE FILE'S NAME
 FILE = 'Network.csv'
 # PLEASE, WRITE HERE PATH TO CSV FILE
-PATH_TO_CSV_FILE = "C:\\Users\\Manish Sharma\\Desktop\\Python Program\\CiscoMinotor\\venv\\Lib\\site-packages\\selenium\\"
+PATH_TO_CSV_FILE = ""
 COLUMN_NAME = 'Network Name' #Name of head column, to drop it
-ORGANIZATION = 'E la Carte, Inc.' 
+ORGANIZATION = '.' 
 # THIS DICT MADE TO FOLLOW WHICH NETWORKS ALREADY DONE
 CHECK = {}
 
