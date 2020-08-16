@@ -9,7 +9,7 @@ import re
 #PASSWORD = ""
 LINK = "https://account.meraki.com/secure/login/dashboard_login"
 # PLEASE, PUT YOUR PATH TO CHROMEDRIVER
-PATH_TO_CHROMEDRIVER = "C:\\Users\\Manish Sharma\\Desktop\\Python Program\\CiscoMinotor\\venv\\Lib\\site-packages\\selenium\\chromedriver.exe"
+PATH_TO_CHROMEDRIVER = ""
 # PLEASE, WRITE HERE FILE'S NAME
 FILE = 'Network.csv'
 # PLEASE, WRITE HERE PATH TO CSV FILE
